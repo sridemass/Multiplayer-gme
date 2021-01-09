@@ -1,1 +1,2 @@
-# Multiplayer-gme
+# synchronousBallMovement
+Ball moving synchronously
